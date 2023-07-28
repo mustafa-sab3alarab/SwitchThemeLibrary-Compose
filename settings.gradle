@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "SwitchThemeLibrary"
 include ':app'
+include ':SwitchTheme'
